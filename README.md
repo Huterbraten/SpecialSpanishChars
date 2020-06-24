@@ -15,4 +15,4 @@ Script de AutoHotKey sencillo para utilizar tildes y  la letra "ñ" en teclados 
 <b>Notas</b></br>
 <p>-Letras mayusculas se introducen con Caps Lock</p>
 <p>-No soporta las combinaciones Shift + Alt + a/e/i/o/u/n</p>
-<p>-AntiCheats como XingCode y Vanguard lo detectan como un falso positivo</p>
+<p>-Anti cheats como XingCode y Vanguard lo detectan como un falso positivo</p>
